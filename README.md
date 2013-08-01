@@ -3,7 +3,7 @@ affiliates-translations
 
 Translation template repository for the Affiliates plugins.
 
-Use the .pot file to derive a translation .po file, for example use affiliates-x.y.z.pot to derive affiliates-de_DE.po for your the German language and Germany.
+Use the .pot file to derive a translation .po file, for example use affiliates-x.y.z.pot to derive affiliates-de_DE.po for the German language in Germany.
 
 Use poedit or run
 
