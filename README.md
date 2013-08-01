@@ -15,16 +15,19 @@ Note that for the Affiliates plugin, you only need to add one set of files, for 
 
 - Affiliates :
 
-  affiliates/lib/core/languages
+  - affiliates/lib/core/languages
 
 - Affiliates Pro :
 
-  affiliates-pro/lib/core/languages
-  affiliates-pro/lib/ext/languages
+  - affiliates-pro/lib/core/languages
+  
+  - affiliates-pro/lib/ext/languages
 
 - Affiliates Enterprise :
 
-  affiliates-enterprise/lib/core/languages
-  affiliates-enterprise/lib/ext/languages
-  affiliates-enterprise/lib/eext/languages
+  - affiliates-enterprise/lib/core/languages
+  
+  - affiliates-enterprise/lib/ext/languages
+  
+  - affiliates-enterprise/lib/eext/languages
   
