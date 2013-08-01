@@ -11,7 +11,7 @@ Use poedit or run
 
 to create the .mo file, then add the .po and .mo files obtained at locations indicated below.
 
-Note that for the Affiliats plugin, you only need to add one set of files, for Affiliates Pro you need to add two sets and for Affiliates Enterprise there are three sets of .po/.mo files to be added.
+Note that for the Affiliates plugin, you only need to add one set of files, for Affiliates Pro you need to add two sets and for Affiliates Enterprise there are three sets of .po/.mo files to be added.
 
 - Affiliates :
 
