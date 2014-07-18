@@ -1,0 +1,1164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2014-07-18 18:54+0200\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:161
+#, php-format
+msgid   "%.3f Ratio"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:670
+#, php-format
+msgid   "%1$s %2$s"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:159
+#, php-format
+msgid   "%d Hit"
+msgid_plural    "%d Hits"
+msgstr[0]       ""
+msgstr[1]       ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:160
+#, php-format
+msgid   "%d Referral"
+msgid_plural    "%d Referrals"
+msgstr[0]       ""
+msgstr[1]       ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:158
+#, php-format
+msgid   "%d Visit"
+msgid_plural    "%d Visits"
+msgstr[0]       ""
+msgstr[1]       ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:622
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:568
+msgid   "(inoperative)"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:148
+msgid   "(no reference)"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:616
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:562
+msgid   "(removed)"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:442
+msgid   "*To undo, each referral would have to be set to the desired status "
+        "individually."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:223
+#, php-format
+msgid   "<code>[affiliates_banner id=\"%d\"]</code>"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:647
+#, php-format
+msgid   "<span style=\"cursor:help\" title=\"%s\">Accepted</span>"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:644
+#, php-format
+msgid   "<span style=\"cursor:help\" title=\"%s\">Closed</span>"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:650
+#, php-format
+msgid   "<span style=\"cursor:help\" title=\"%s\">Pending</span>"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:653
+#, php-format
+msgid   "<span style=\"cursor:help\" title=\"%s\">Rejected</span>"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:472
+msgid   "<strong>Export</strong> : Export the current totals listing to a "
+        "file."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:475
+msgid   "<strong>Mass Payment File</strong> : Export the current totals for "
+        "mass payment compatible with the PayPal file format<sup>*</sup>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:480
+#, php-format
+msgid   "<sup>*</sup>Note that the PayPal Mass Payment <a target='_blank' "
+        "href='%s'>File Format</a> allows only one currency type per Mass "
+        "Payment file."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:492
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:538
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:544
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-graph-renderer.php:264
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:352
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:223
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:192
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:491
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:466
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:512
+msgid   "Accepted"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:53
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:90
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:96
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:83
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:26
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:80
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:206
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:212
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:137
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:260
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:18
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:150
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:272
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:278
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:125
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:200
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:204
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:267
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:338
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:342
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:403
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:474
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:478
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-profile-wordpress.php:82
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:125
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:228
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:232
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/includes/generate-mass-payment-file.php:16
+msgid   "Access denied."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:647
+msgid   "Accumulated total for accepted referrals (commissions unpaid)."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:644
+msgid   "Accumulated total for closed referrals (commissions paid)."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:650
+msgid   "Accumulated total for pending referrals."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:653
+msgid   "Accumulated total for rejected referrals."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:300
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:49
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:179
+msgid   "Add"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:277
+msgid   "Add New Banner"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:161
+msgid   "Add a new attribute"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:456
+msgid   "Administrator Email Address"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:645
+msgid   "Administrator message:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:442
+msgid   "Administrator notifications"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:643
+msgid   "Administrator subject:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:168
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:532
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:390
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:417
+msgid   "Affiliate"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:43
+msgid   "Affiliate Attributes"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:290
+msgid   "Affiliate Banner"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:447
+msgid   "Affiliate Email"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:527
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:435
+msgid   "Affiliate Id"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:529
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:441
+msgid   "Affiliate Name"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:391
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:567
+msgid   "Affiliate Registration"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-url-renderer-wordpress.php:131
+msgid   "Affiliate URL"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:531
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:453
+msgid   "Affiliate Username"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:650
+msgid   "Affiliate message:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:496
+msgid   "Affiliate notifications"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:648
+msgid   "Affiliate subject:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:587
+msgid   "Affiliates Registration"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:431
+msgid   "Alternatively, a banner image URL can be specified."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:533
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:292
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:212
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:181
+msgid   "Amount"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:265
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:443
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:285
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:546
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:560
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:491
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:505
+msgid   "Apply"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:170
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:274
+msgid   "Banner"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:357
+msgid   "Banner Image"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:584
+msgid   "Banner draft updated."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:450
+msgid   "Banner image URL."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:483
+msgid   "Banner image height in pixels."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:472
+msgid   "Banner image width in pixels."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:580
+msgid   "Banner published."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:384
+msgid   "Banner reference &hellip;"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:579
+#, php-format
+msgid   "Banner restored to revision from %s"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:581
+msgid   "Banner saved."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:583
+#, php-format
+msgid   "Banner scheduled for: <strong>%1$s</strong>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:582
+msgid   "Banner submitted."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:575
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:578
+msgid   "Banner updated."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:273
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:275
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:287
+msgid   "Banners"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:182
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:320
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:456
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:197
+msgid   "Cancel"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:444
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:286
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:547
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:492
+msgid   "Clear"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:300
+msgid   "Click to add a new affiliate"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:49
+msgid   "Click to add a new attribute"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:427
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:462
+msgid   "Click to close these referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:431
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:466
+msgid   "Close Referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:430
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:465
+msgid   "Close referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:424
+msgid   "Close these referrals by clicking:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:493
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:539
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:545
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-graph-renderer.php:292
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:353
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:247
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:216
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:492
+msgid   "Closed"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:246
+msgid   "Closing referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-attributes.php:17
+msgid   "Coupons"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:233
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:369
+#, php-format
+msgid   "Coupons may not be assigned to multiple affiliates. The coupon code "
+        "<strong>%s</strong> has already been assigned to the affiliate with "
+        "Id %d."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:176
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:534
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:296
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:213
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:182
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:394
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:507
+msgid   "Currency"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:577
+msgid   "Custom field deleted."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:576
+msgid   "Custom field updated."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:530
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:285
+msgid   "Date"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:225
+msgid   "Default referral amount calculation"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:233
+msgid   "Default referral calculation"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:238
+msgid   "Default referral calculation value"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:604
+msgid   "Default subject and message"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:641
+msgid   "Default subjects and messages"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:303
+msgid   "Details"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:249
+msgid   "Duplicate key"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:422
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:599
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:58
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:97
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:278
+msgid   "Edit"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:143
+#, php-format
+msgid   "Edit %s"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:279
+msgid   "Edit Banner"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:162
+msgid   "Edit an affiliate"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:299
+msgid   "Edit an attribute"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:170
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:391
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:418
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-profile-wordpress.php:163
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:174
+msgid   "Email"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:430
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:435
+msgid   "Enable notifications"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:399
+msgid   "Enable registration emails"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:394
+msgid   "Enable registration notifications"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:450
+msgid   "Export"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:446
+msgid   "Export to File"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:512
+msgid   "Failed"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:431
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:271
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:518
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:431
+msgid   "Filters"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-profile-wordpress.php:150
+msgid   "First Name"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:275
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:280
+msgid   "Format: YYYY-MM-DD"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:434
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:274
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:535
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:420
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:460
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:186
+msgid   "From"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-url-renderer-wordpress.php:140
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:449
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:457
+msgid   "Generate"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:454
+msgid   "Generate a Mass Payment File"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:478
+msgid   "Height"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-graph-renderer.php:244
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:149
+msgid   "Hits"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:166
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:389
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:416
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:56
+msgid   "Id"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:435
+msgid   "If a banner image is set, it takes precedence - this is only used if "
+        "no banner image is set."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:177
+msgid   "If a valid <strong>Username</strong> is specified and no email is "
+        "given, the user's email address will be used automatically."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:374
+msgid   "If these referrals can be closed, click the confirmation button "
+        "below."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:188
+msgid   "Image"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:474
+msgid   "Include inoperative affiliates"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:480
+msgid   "Include removed affiliates"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:639
+msgid   "Integration-specific data tokens can also be used in the subject and "
+        "message."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:253
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:389
+msgid   "Invalid data"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:385
+msgid   "Invalid key"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:168
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:306
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:442
+msgid   "Key"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-profile-wordpress.php:155
+msgid   "Last Name"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:608
+msgid   "Link"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:424
+msgid   "Links"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:583
+msgid   "M j, Y @ G:i"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:294
+msgid   "Manage Affiliates"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:458
+msgid   "Mass Payment File"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:418
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:490
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:536
+msgid   "Message"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:589
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:622
+msgid   "Message format and tokens"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:608
+msgid   "Message:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:522
+msgid   "Minimum Total"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:476
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:522
+msgid   "More than one notification may be sent if multiple statuses are "
+        "enabled."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:170
+msgid   "Name"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:300
+msgid   "New Affiliate"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:49
+msgid   "New Attribute"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:276
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:280
+msgid   "New Banner"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:281
+msgid   "No Banners found"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:282
+msgid   "No Banners found in trash"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:131
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:248
+msgid   "No such affiliate."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:151
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:196
+msgid   "None"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:66
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:67
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:374
+msgid   "Notifications"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:379
+msgid   "Notifications for the site administrator and affiliates can be "
+        "enabled here. If the integration used provides its own notification "
+        "settings, enable these through the integration&rsquo;s settings or "
+        "here. Do not enable them both, as that could cause duplicate "
+        "notifications to be sent."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:475
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:521
+msgid   "Notifications on referral status updates are only sent when the "
+        "status changes from <em>pending</em> to <em>accepted</em>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:477
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:523
+msgid   "Notifications on referral status updates may not be supported by all "
+        "integrations."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:505
+msgid   "Notifications will be sent to affiliates when credited with a "
+        "referral."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:451
+msgid   "Notifications will be sent to the email address specified in "
+        "<em>Settings > General</em>, or if indicated, to the email address "
+        "specified here."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:439
+msgid   "Notifications will only be sent if this option is activated."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:501
+msgid   "Notify the affiliates"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:447
+msgid   "Notify the site administrator"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:463
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:509
+msgid   "Notify when a referral is: "
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:504
+msgid   "Omitted"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-url-renderer-wordpress.php:117
+msgid   "Page URL"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:283
+msgid   "Parent Banner"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-attributes.php:13
+msgid   "PayPal Email"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:494
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:540
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:546
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-graph-renderer.php:274
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:354
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:235
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:204
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:493
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:471
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:517
+msgid   "Pending"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-url-renderer-wordpress.php:120
+msgid   "Please enter a valid URL."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:364
+msgid   "Please review the list of referrals that will be <em>closed</em>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:531
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:288
+msgid   "Post"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:151
+msgid   "Ratio"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-attributes.php:14
+msgid   "Referral Amount"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-attributes.php:15
+msgid   "Referral Amount Method"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:427
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:572
+msgid   "Referral Notifications"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-attributes.php:16
+msgid   "Referral Rate"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:497
+msgid   "Referral Status"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:150
+msgid   "Referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:495
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:541
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:547
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-graph-renderer.php:283
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:355
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:259
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:228
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:494
+msgid   "Rejected"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:423
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:602
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:59
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:98
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:453
+msgid   "Remove"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:435
+msgid   "Remove an attribute"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:154
+msgid   "Remove banner image"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:262
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:557
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:502
+msgid   "Results per page"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:600
+msgid   "Same as [site_title]."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:244
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:386
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:544
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:317
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-profile-wordpress.php:190
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:195
+msgid   "Save"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:284
+msgid   "Search Banners"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:403
+msgid   "Send new affiliates an email when their user account is created."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:130
+msgid   "Set Banner Image"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:401
+msgid   "Set a banner image and determine its title and other attributes "
+        "directly for the image attachment using the <strong>Banner Image</"
+        "strong> facilities."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:131
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:151
+msgid   "Set banner image"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:52
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:53
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:192
+msgid   "Settings"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:189
+msgid   "Shortcode"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:486
+msgid   "Show accumulated referral totals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:108
+msgid   "Show totals for accepted referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:118
+msgid   "Show totals for closed referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:113
+msgid   "Show totals for pending referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:123
+msgid   "Show totals for rejected referrals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:535
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:300
+msgid   "Status"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:410
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:482
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:528
+msgid   "Subject"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:606
+msgid   "Subject:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wp-init.php:198
+msgid   "The <a href=\"http://www.itthinx.com/plugins/affiliates\" target="
+        "\"_blank\">Affiliates</a> plugin must be deactivated or removed."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:599
+msgid   "The ID of the new affiliate user account. This is the user ID, not "
+        "the affiliate ID."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:632
+msgid   "The current referral status"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:591
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:624
+msgid   "The message format is HTML and line breaks must be indicated by "
+        "<code>&lt;br/&gt;</code>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:598
+msgid   "The password for the new affiliate user account."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:398
+msgid   "The reference for this banner (also used as <em>alt</em> attribute "
+        "for images specified by URL)."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:633
+msgid   "The referral amount"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:634
+msgid   "The referral currency ID"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:636
+msgid   "The referral reference (an internal reference normally related to "
+        "the originating transaction)"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:635
+msgid   "The referral type (an internal reference)"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:629
+msgid   "The referring affiliate&rsquo;s ID"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:630
+msgid   "The referring affiliate&rsquo;s email address"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:631
+msgid   "The referring affiliate&rsquo;s name"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:597
+msgid   "The username for the new affiliate user account."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:583
+#, php-format
+msgid   "There are different email addresses on record for the affiliate and "
+        "the associated user. This might be ok, but if in doubt please check. "
+        "The email address on file for the user is %s"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:577
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:416
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:643
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:685
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:106
+msgid   "There are no results."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:592
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:625
+msgid   "These default tokens can be used in the subjects and the messages:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:514
+#, php-format
+msgid   "These referrals could not be updated to <em>%s</em>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:506
+#, php-format
+msgid   "These referrals have been omitted because their status must not be "
+        "changed to <em>%s</em>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:499
+#, php-format
+msgid   "These referrals have been updated to <em>%s</em>."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:229
+msgid   "These settings will be used to calculate referral amounts, if no "
+        "specific settings are given for an affiliate."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:437
+msgid   "This action can not be undone*."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:433
+msgid   "This is useful if you want to use an external image or an image that "
+        "is located outside the uploads directory structure."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:405
+msgid   "This should normally be enabled, so that new affiliates receives "
+        "their username and password to be able to log in and access their "
+        "account."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:102
+msgid   "Title:"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:174
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:211
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-widget.php:180
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:393
+msgid   "Total"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:229
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:82
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-admin-menu-wordpress.php:83
+msgid   "Totals"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:461
+msgid   "Try to obtain the image width and height based on the URL and update "
+        "the values."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:366
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:445
+msgid   "URL"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:612
+msgid   "URL Parameter"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-stats-renderer-wordpress.php:438
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:279
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:537
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:421
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:466
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:190
+msgid   "Until"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:458
+msgid   "Update Size"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:497
+msgid   "Updated"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:482
+msgid   "Use the <em>Currency</em> filter to restrict the listing to one "
+        "currency."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:405
+#, php-format
+msgid   "Use this shortcode to embed the banner: <code>[affiliates_banner id="
+        "\"%d\"]</code>"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:172
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:392
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliates-wordpress.php:419
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-affiliate-wordpress.php:181
+msgid   "Username"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-totals.php:370
+msgid   "Usually only referrals that are <em>accepted</em> and have been paid "
+        "out should be <em>closed</em>. If there are unwanted or too many "
+        "referrals shown, restrict your filter settings."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:57
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:173
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:311
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-attributes-wordpress.php:447
+msgid   "Value"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:285
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:286
+msgid   "View Banner"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/abstract/class-affiliates-graph-renderer.php:254
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-stats-renderer-wordpress.php:148
+msgid   "Visits"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-totals-wordpress.php:484
+msgid   "Where a specific PayPal email address is on file for an affiliate, "
+        "it will be used."
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wordpress/class-affiliates-banner.php:467
+msgid   "Width"
+msgstr  ""
+
+#: /var/www/aff/wp-content/plugins/affiliates-pro/lib/ext/wp-init.php:207
+msgid   "You are running PHP with <a target=\"_blank\" href=\"http://www.php."
+        "net/manual/en/book.bc.php\">BCMath Arbitrary Precision Mathematics</"
+        "a> disabled. Your <strong>Affiliates</strong> plugin will use "
+        "substitute functions, but you should seriously consider getting "
+        "BCMath enabled to avoid loss of precision."
+msgstr  ""
