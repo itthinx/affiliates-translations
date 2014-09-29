@@ -31,3 +31,6 @@ Note that for the Affiliates plugin, you only need to add one set of files, for 
   
   - affiliates-enterprise/lib/eext/languages
   
+= Useful references on how to translate WordPress plugins =
+- http://codex.wordpress.org/Translating_WordPress
+- http://premium.wpmudev.org/blog/how-to-translate-a-wordpress-plugin/
