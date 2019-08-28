@@ -1,36 +1,14 @@
 affiliates-translations
 =======================
 
-Translation template repository for the Affiliates plugins.
+This translation template repository for the Affiliates plugins is *deprecated*.
 
-Use the .pot file to derive a translation .po file, for example use affiliates-x.y.z.pot to derive affiliates-de_DE.po for the German language in Germany.
+Please refer to the following resources regarding translations of the plugins:
 
-Use poedit or run
+- Affiliates : http://docs.itthinx.com/document/affiliates/api/translations/
+- Affiliates Pro : http://docs.itthinx.com/document/affiliates-pro/api/translations/
+- Affiliates Enterprise : http://docs.itthinx.com/document/affiliates-enterprise/api/translations/
 
-  msgfmt -o affiliates-de_DE.mo affiliates-de_DE.po
-
-to create the .mo file, then add the .po and .mo files obtained at locations indicated below.
-
-Note that for the Affiliates plugin, you only need to add one set of files, for Affiliates Pro you need to add two sets and for Affiliates Enterprise there are three sets of .po/.mo files to be added.
-
-- Affiliates :
-
-  - affiliates/lib/core/languages
-
-- Affiliates Pro :
-
-  - affiliates-pro/lib/core/languages
-  
-  - affiliates-pro/lib/ext/languages
-
-- Affiliates Enterprise :
-
-  - affiliates-enterprise/lib/core/languages
-  
-  - affiliates-enterprise/lib/ext/languages
-  
-  - affiliates-enterprise/lib/eext/languages
-  
 = Useful references on how to translate WordPress plugins =
 - http://codex.wordpress.org/Translating_WordPress
 - http://premium.wpmudev.org/blog/how-to-translate-a-wordpress-plugin/
